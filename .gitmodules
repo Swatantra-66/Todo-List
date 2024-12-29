@@ -1,0 +1,3 @@
+[submodule "eth-todo-list"]
+	path = eth-todo-list
+	url = https://github.com/Swatantra-66/TodoList.git
